@@ -1,0 +1,3 @@
+Content for docker.txt
+Line 1
+Line 2
