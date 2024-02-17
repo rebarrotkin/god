@@ -8,3 +8,4 @@ software
 neural
 documentation
 docker
+algorithm
